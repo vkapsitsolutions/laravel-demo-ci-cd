@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Laravel shubham CI CD
                 </div>
 
                 <div class="links">

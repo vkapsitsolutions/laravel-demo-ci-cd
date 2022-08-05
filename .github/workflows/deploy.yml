@@ -30,6 +30,7 @@ jobs:
             git fetch
             git checkout main
             git pull origin main
+            composer install
             php artisan migrate
             php artisan storage:link
             php artisan cache:clear
